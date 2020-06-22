@@ -21,27 +21,27 @@ The following is a breakdown of the minimum viable product for this web applicat
 In Statup, users will be able to:
 
 ### Login and account creation
- - [] login
- - [] create account
+ - [ ] login
+ - [ ] create account
  
 ### View collection of past games
--[] have a index page for game history
-- [] be able to go into each page to see a show page for a specific game
+- [ ] have a index page for game history
+- [ ] be able to go into each page to see a show page for a specific game
 
 ### See stats from specific games
-- [] go into a show page and see stats
-- [] clean design for easy viewing and understanding
+- [ ] go into a show page and see stats
+- [ ] clean design for easy viewing and understanding
 
 ### Compare functionality
-- [] users will be able to compare their stats to the region
-- [] compare to other players
-- [] compare to other skill levels
-- [] different graph modes
+- [ ] users will be able to compare their stats to the region
+- [ ] compare to other players
+- [ ] compare to other skill levels
+- [ ] different graph modes
 
 ### Have a collective dashboard
-- [] collective for average of all stats in one place
-- [] have the same compare functionality of a single game
-- [] able to have different filter options
+- [ ] collective for average of all stats in one place
+- [ ] have the same compare functionality of a single game
+- [ ] able to have different filter options
 
 
  
