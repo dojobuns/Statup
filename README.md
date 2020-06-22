@@ -25,7 +25,7 @@ In Statup, users will be able to:
  - [] create account
  
 ### View collection of past games
-- [] have a index page for game history
+-[] have a index page for game history
 - [] be able to go into each page to see a show page for a specific game
 
 ### See stats from specific games
